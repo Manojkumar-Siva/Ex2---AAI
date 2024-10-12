@@ -1,7 +1,7 @@
-<H5>Enter Name: Manoj Kumar.S</H5>
-<H5>Enter Register No: 212221230056</H5>
-<H5>Experiment 2</H5>
-<H5>Date: 04.09.24</H5>
+<H3>Name: Manoj Kumar.S</H3>
+<H3>Register No: 212221230056</H3>
+<H3>Experiment 2</H3>
+<H3>Date: 04.09.24</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
